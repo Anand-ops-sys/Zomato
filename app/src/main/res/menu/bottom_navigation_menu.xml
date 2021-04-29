@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/order"
+        android:title="Order" />
+    <item
+        android:id="@+id/navigation_go"
+        android:icon="@drawable/goout"
+        android:title="Go Out" />
+    <item
+        android:id="@+id/navigation_pro"
+        android:icon="@drawable/pro"
+        android:title="Pro" />
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/account"
+        android:title="Account" />
+</menu>
